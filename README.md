@@ -4,6 +4,9 @@
 
 This project was designed as an internship project at Cisco Networking by Ayush Singh and Team.
 
+Aim of this project was to create a secure and efficient network which can meet daily requirements of a National Institute like IIIT Bhopal.
+Concepts of Internet of Things, Computer Networking and Cybersecurity were used in the development of this project.
+
 
 ## Screenshot 1
 <img src="https://github.com/the-ayush-singh/College-Network/blob/main/images/img-1.png?raw=true">
