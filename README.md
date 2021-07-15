@@ -4,10 +4,12 @@
 
 This project was designed as an internship project at Cisco Networking by Ayush Singh.
 
-Note - Some of the routers might not be connected properly to the network.
+
 
 <img src="https://github.com/the-ayush-singh/College-Network/blob/main/images/img-1.png?raw=true">
 
 <img src="https://github.com/the-ayush-singh/College-Network/blob/main/images/img-2.png?raw=true">
 
 <img src="https://github.com/the-ayush-singh/College-Network/blob/main/images/img-3.png?raw=true">
+
+Note - Some of the routers might not be connected properly to the network.
