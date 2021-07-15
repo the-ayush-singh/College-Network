@@ -2,7 +2,7 @@
 
 ## Simulation of network of our college Indian Institute of Information Technology Bhopal
 
-This project was designed as an internship project at Cisco Networking by Ayush Singh.
+This project was designed as an internship project at Cisco Networking by Ayush Singh and Team.
 
 
 
