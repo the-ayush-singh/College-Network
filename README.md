@@ -1,8 +1,8 @@
 # College Network designed using Cisco Packet Tracer
 
-## Simulation of network of our college Indian Institute of Information Technology Bhopal
+## Simulation of network of our college Indian Institute of Information Technology Bhopal  (IIIT BHOPAL)
 
-This project was designed as an internship project at Cisco Networking by Ayush Singh and Team.
+This project was designed as an internship project at Cisco Networking by Ayush Singh ,Piyush Dixit Team.
 
 Aim of this project was to create a secure and efficient network which can meet daily requirements of a National Institute like IIIT Bhopal.
 Concepts of Internet of Things, Computer Networking and Cybersecurity were used in the development of this project.
